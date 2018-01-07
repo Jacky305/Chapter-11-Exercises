@@ -32,21 +32,13 @@ namespace Chapter_11_Exercises
             try
             {
                 if (age < 16 || age > 80)
-                {
                     throw new ArgumentException();
-                }
                 if (state == "IL")
-                {
                     temp = 100;
-                }
                 else if (state == "WI")
-                {
                     temp = 50;
-                }
                 else
-                {
                     throw new ArgumentException();
-                }
 
                 temp += 100 - (3 * age);
             }
