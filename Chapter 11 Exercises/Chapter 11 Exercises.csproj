@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CarInsurance.cs" />
+    <Compile Include="FindSquareRoot.cs" />
     <Compile Include="GoTooFar.cs" />
     <Compile Include="PlacingOrder.cs" />
     <Compile Include="Program.cs" />

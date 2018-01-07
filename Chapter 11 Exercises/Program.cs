@@ -10,7 +10,7 @@ namespace Chapter_11_Exercises
     {
         static void Main(string[] args)
         {
-            CarInsurance.Run(args);
+            FindSquareRoot.Run(args);
         }
     }
 }
