@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CarInsurance.cs" />
     <Compile Include="GoTooFar.cs" />
     <Compile Include="PlacingOrder.cs" />
     <Compile Include="Program.cs" />

@@ -10,7 +10,7 @@ namespace Chapter_11_Exercises
     {
         static void Main(string[] args)
         {
-            PlacingOrder.Run(args);
+            CarInsurance.Run(args);
         }
     }
 }
